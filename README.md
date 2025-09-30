@@ -1,1 +1,0 @@
-# dsmp_registration_portal
